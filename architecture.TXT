@@ -1,3 +1,4 @@
 Project architecture with utils classes and review issues
 ---
 Profile screen and architecture component
+Users list screen with required component
